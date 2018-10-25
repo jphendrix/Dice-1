@@ -1,0 +1,17 @@
+.dice
+{
+    width:100px;
+    height:100px;
+    display: inline-block;
+}
+.dice_graphic
+{
+   display: inline-block;
+}
+
+.d6.pip_1{background:url('d6.png') -1px -1px;}
+.d6.pip_2{background:url('d6.png') -101px -1px;}
+.d6.pip_3{background:url('d6.png') -201px -1px;}
+.d6.pip_4{background:url('d6.png') -301px -1px;}
+.d6.pip_5{background:url('d6.png') -401px -1px;}
+.d6.pip_6{background:url('d6.png') -501px -1px;}
